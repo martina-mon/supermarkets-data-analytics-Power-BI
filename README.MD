@@ -1,4 +1,4 @@
-# Supermarket's Sales Dashboard – Power BI
+# Supermarket's Sales Analysis – Power BI
 
 ## Project Overview
 This project analyzes supermarket sales data to identify customer behavior, top-selling products, and sales across cities.
